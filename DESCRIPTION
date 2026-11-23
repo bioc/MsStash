@@ -1,6 +1,6 @@
 Package: MsStash
 Title: Infrastructure to serialize and restore mass spectrometry data objects
-Version: 0.99.0
+Version: 1.0.0
 Authors@R:
     c(person(given = "Johannes", family = "Rainer",
              email = "Johannes.Rainer@eurac.edu",
